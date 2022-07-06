@@ -1,6 +1,6 @@
 # CovidWatch: Data Architecture for Tracking COVID Statistics and Sentiments
 
-<p align="justify">Data Engineering Final Project Patrick Guillano La Rosa, Christian Alfred Soriano, and Samuelson Anthony Sylim- June 23, 2022. Screenshot of codes and setup can be found in <a href="https://github.com/pgplarosa/Data-Architecture-for-Tracking-COVID-Statistics-and-Sentiments/blob/main/Implementation.pdf">Implementation</a>. At the same time, the analysis and Full report can be found in <a href="https://github.com/pgplarosa/Data-Architecture-for-Tracking-COVID-Statistics-and-Sentiments/blob/main/LT9%20DE2022%20Final%20Project%20Technical%20Report.pdf">Technical Report</a>.</p>
+<p align="justify">Data Engineering Final Project Patrick Guillano La Rosa, Christian Alfred Soriano, and Samuelson Anthony Sylim- June 23, 2022. Screenshot of codes and setup can be found in <a href="https://github.com/pgplarosa/Data-Architecture-for-Tracking-COVID-Statistics-and-Sentiments/blob/main/Implementation.pdf">Implementation</a>. At the same time, the analysis and full report can be found in <a href="https://github.com/pgplarosa/Data-Architecture-for-Tracking-COVID-Statistics-and-Sentiments/blob/main/LT9%20DE2022%20Final%20Project%20Technical%20Report.pdf">Technical Report</a>.</p>
 
 
 <img src="./img/data_architecture.png" width=100% />
